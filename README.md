@@ -1,16 +1,15 @@
-## Hi there 👋
+# Zeyi Wang
 
-<!--
-**wzy-tech/wzy-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduate Student
 
-Here are some ideas to get you started:
+**Affiliation:** Shanghai Jiao Tong University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Department:** School of Automation
+
+**Research Interests:**
+- Automotive Radar Signal Processing
+- Radar Point Cloud Semantic Segmentation
+- Deep Learning
+- Spatiotemporal Feature Learning
+
+**Email:** wzy299792458@sjtu.edu.cn
